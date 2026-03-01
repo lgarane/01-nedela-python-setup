@@ -1,8 +1,8 @@
 Kafijas iegāde
 
 1.Izvēlies, kurā kafejnīcā iegādāsies kafiju
-2.Aizej līdz veikalam
-3.Ja veikalam ir durvis, tās ir jāatver
+2.Aizej līdz izvēlētajai kafejnīcai
+3.Ja kafejnīcai ir durvis, tās ir jāatver
 4.Ja ir apmeklētāju rinda, jāgaida līdz pienāks kārta pasūtīt savu kafiju pie pārdevējas
 5.Kad pienāk kārta, nosaukt vēlamo kafiju, tās tilpumu, piena veidu, krūzes veidu (līdzņemšanas/uz vietas), cukura nepieciešamību
 6.Kad pārdevēja ir nosaukusi nepieciešamo summu, izņemt maku no kabatas/somas un samaksāt par kafiju ar karti vai skaidrā naudā
