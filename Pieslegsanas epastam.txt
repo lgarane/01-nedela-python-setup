@@ -9,4 +9,3 @@ Pieslēgšanās e-pastam
 7.Spied pogu "next"
 8.Ierakstīt savu e-pasta paroli tukšajā logā ar uzrakstu Enter your password
 9.Spied pogu "next"
-
