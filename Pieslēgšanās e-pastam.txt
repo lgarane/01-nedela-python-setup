@@ -1,0 +1,12 @@
+Pieslēgšanās e-pastam
+
+1.Atvērt portatīvo datoru
+2.Ieslēgt datoru
+3.Ievadīt datora paroli
+4.Atvērt interneta pārlūku google chrome
+5.Interneta pārlūka meklētājā ierakstīt tekstu "gmail.com"
+6.Ierakstīt savu e-pasta adresi tukšajā logā ar uzrakstu e-mail or phone
+7.Spied pogu "next"
+8.Ierakstīt savu e-pasta paroli tukšajā logā ar uzrakstu Enter your password
+9.Spied pogu "next"
+
